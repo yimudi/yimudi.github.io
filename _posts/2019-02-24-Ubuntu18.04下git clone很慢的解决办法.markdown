@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ubuntu18.04下git clone很慢的解决办法"
-date:   2019-04-29 15:59:15 +0800
+date:   2019-02-24 15:59:15 +0800
 categories: jekyll update
 ---
 在Ubuntu18.04系统下git clone github.com上的项目很慢，平均速度才10KB。我用的是Shadowsock-Qt5做代理(Ubuntu下的网络代理设置：Setting > Network > Network Proxy > Automatic)，（代理下）平均下载速度能达到8MB，所以排除网速原因。
