@@ -3,6 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Ubuntu18.04下git clone慢https代理方法和ssh代理方法
+date: 2018-4-30
 author: yimudi
 ---
 A banana is an edible fruit – botanically a berry – produced by several kinds
